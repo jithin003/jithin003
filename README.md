@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jithin
 - 👀 I’m interested in Javascript and hybrid mobile application development
   
-🚀 Front-End Developer | Vue.js | Flutter | Nuxt.js | React | Nuxt.js | Ionic
+🚀 Front-End Developer | Vue.js | Flutter | Nuxt.js | React | Next.js | Ionic
 
 🌟 Passionate about creating stunning user interfaces and seamless user experiences. 
 
